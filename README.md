@@ -38,7 +38,7 @@
 [![Gmail](https://img.shields.io/badge/Emial-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsaab110@gmail.com)
 
 ---
-
+```
 ## 💬 Dev Quote
 
 <blockquote style="background-color:#0f0f13g; color:#8de3f1; padding: 1em; border-radius: 12px; font-style: italic;">
@@ -47,3 +47,4 @@
   </p>
   <p style="text-align: right; color: #ff4f91; font-style: normal;">*Linus Torvalds*</p>
 </blockquote>
+```
