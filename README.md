@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Saab
 
-🎓 I'm a passionate **Web Developer** and a **Computer Science student** at NDU (Lebanon). I love building modern websites and solving real-world problems using code.
+🎓 I'm a passionate **Software Developer** and a **Information Technology student** at NDU (Lebanon). I love building modern websites and solving real-world problems using code.
 
 ---
 
