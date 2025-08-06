@@ -34,7 +34,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-saab)
-[![Gmail](https://img.shields.io/badge/Emial-darkorange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsaab110@gmail.com)
+[![Gmail](https://img.shields.io/badge/Emial-orangered?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsaab110@gmail.com)
 
 ---
 ## 💬 Dev Quote
