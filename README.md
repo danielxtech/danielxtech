@@ -16,9 +16,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orangered?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-redorange?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-purple?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C++-darkorange?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-cyan?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=gold)
 ![Assembly](https://img.shields.io/badge/Assembly-orangered?style=for-the-badge&Color=orange)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
@@ -34,7 +34,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-saab)
-[![Gmail](https://img.shields.io/badge/Emial-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsaab110@gmail.com)
+[![Gmail](https://img.shields.io/badge/Emial-darkorange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsaab110@gmail.com)
 
 ---
 ## 💬 Dev Quote
