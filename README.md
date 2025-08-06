@@ -27,7 +27,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-lightskyblue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-orangered?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-magenta?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-darkorange?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-greenyellow?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
