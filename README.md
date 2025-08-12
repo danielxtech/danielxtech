@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Saab
+# 👋 Hola, I'm Daniel Saab
 
 🎓 I'm a passionate **Software Developer** and a **Information Technology student** at NDU (Lebanon). I love building modern websites and solving real-world problems using code.
 
