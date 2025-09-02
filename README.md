@@ -24,6 +24,8 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
 ![Cisco](https://img.shields.io/badge/Cisco-white?style=for-the-badge&logo=cisco&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-darkorange?style=for-the-badge&logo=mysql&logoColor=black)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-blue?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-orangered?style=for-the-badge&logo=adobephotoshop&logoColor=white)
