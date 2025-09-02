@@ -20,7 +20,7 @@
 ![C++](https://img.shields.io/badge/C++-darkorange?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-cyan?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=gold)
-![Assembly](https://img.shields.io/badge/Assembly-orangered?style=for-the-badge&Color=orange)
+![Assembly](https://img.shields.io/badge/Assembly-red?style=for-the-badge&Color=orange)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
 ![Cisco](https://img.shields.io/badge/Cisco-white?style=for-the-badge&logo=cisco&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
