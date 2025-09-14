@@ -15,6 +15,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniel_saab7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-saab)
+[![Gmail](https://img.shields.io/badge/Emial-orangered?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsaab110@gmail.com)
 
 ---
 
@@ -44,11 +45,6 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-saab)
-[![Gmail](https://img.shields.io/badge/Emial-orangered?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsaab110@gmail.com)
-
----
 ## 💬 Dev Quote
 
 **“Talk is cheap. Show me the code.”**  
