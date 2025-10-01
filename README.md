@@ -44,6 +44,10 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-greenyellow?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
+## 📊 GitHub Stats  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical)
+---
 
 ## 💬 Dev Quote
 
