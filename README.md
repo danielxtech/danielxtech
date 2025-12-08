@@ -37,6 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-darkorange?style=for-the-badge&logo=mysql&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=postman&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-blueviolet?style=for-the-badge&logo=xaml&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-darkred?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-blue?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-orangered?style=for-the-badge&logo=adobephotoshop&logoColor=white)
